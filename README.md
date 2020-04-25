@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+# Starter Kit
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app). This project gets quickly up and running with Next.js, Typescript, and TailwindCSS with minimal dependencies.
+
+[Live demo](next-typescript-tailwind-starter.now.sh).
 
 ## Getting Started
 
